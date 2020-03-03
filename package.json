@@ -1,6 +1,6 @@
 {
     "name": "generate-nginx-config-for-thingies",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "description": "This is the shit!",
     "scripts": {
         "build-coffee": "coffee -o output/ -c sources/source/*/*.coffee",
